@@ -1,0 +1,4 @@
+[submodule "OpenComputers"]
+	path = OpenComputers
+	url = git@github.com:walksanatora/OpenComputers.git
+	branch = catchup-MC1.16
